@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="app_label">Length Convertor</string>
+    <string name="radio_label">Choose the Conversion</string>
+    <string name="cms2ms">Inches to MilliMetres</string>
+    <string name="ms2cms">MilliMetres to Inches</string>
+    <string name="input_hint">Enter Value to Convert</string>
+    <string name="conv_button">Convert</string>
+    <string name="answer_hint">Answer</string>
+</resources>
